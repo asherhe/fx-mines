@@ -1,0 +1,23 @@
+icons.png:
+  type: bopti-image
+  name: img_icons
+
+tiles.png:
+  type: bopti-image
+  name: img_tiles
+
+title.png:
+  type: bopti-image
+  name: img_title
+
+logo.png:
+  type: bopti-image
+  name: img_title_logo
+
+font3x5.png:
+  type: font
+  name: font_3x5
+  charset: print
+  grid.size: 4x6
+  grid.padding: 1
+  proportional: true
